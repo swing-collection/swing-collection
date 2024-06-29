@@ -1,2 +1,1 @@
-# swing-collection
-Swing | Collection
+# Swing | Collection
